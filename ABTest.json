@@ -1,5 +1,5 @@
 {
-	"DefaultValue": {
+	"DefaultValues": {
 		"click_mode": "false",
 
         "AB_test_users": 100  
