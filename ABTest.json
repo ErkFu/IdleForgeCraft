@@ -8,11 +8,11 @@
 	"ABtests": {
 
         "Ref": {
-            "panel_size": 80
+            "panel_size": 0
         },
         "A": {
             "click_mode": "true",
-            "panel_size": 20
+            "panel_size": 100
         }
       }
 }
